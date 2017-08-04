@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string-array name="array_version_code">
+        <item>1</item>
+    </string-array>
+    <integer name="current_version_code">1</integer>
+    
+    <string-array name="array_version_name">
+        <item>1.0.0</item>
+    </string-array>
+    <string name="current_version_name">1.0.0</string>
+    
+    <string-array name="array_version_content">
+        <item>1.ZombieFight(测试版) \n2.增加软件升级功能 \n</item>
+    </string-array>
+    
+    <string-array name="array_version_date">
+        <item>2017年08月15日 12:00:00</item>
+    </string-array>
+    
+</resources>
